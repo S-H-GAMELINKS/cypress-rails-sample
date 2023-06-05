@@ -1,24 +1,10 @@
-# README
+# cypress-rails-sample
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## これは何？
 
-Things you may want to cover:
+[testdouble/cypress-rails](https://github.com/testdouble/cypress-rails)をRailsアプリケーションに追加して、実際にE2Eテストを実行できるようにしたものです。
 
-* Ruby version
+## 試し方
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
